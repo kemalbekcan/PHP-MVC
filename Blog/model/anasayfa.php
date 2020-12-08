@@ -1,0 +1,4 @@
+<?php
+// Anasayfa veritabanı işlemleri
+
+?>
